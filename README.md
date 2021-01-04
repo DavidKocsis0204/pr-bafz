@@ -7,3 +7,6 @@ Még egyszer javítgatok.
 3-ik is siokeres.
 nyolcadik sorom
 kilences
+tizedik
+11-es sor
+12-es sor
