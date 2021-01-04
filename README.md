@@ -11,3 +11,4 @@ tizedik
 11-es sor
 12-es sor
 írom a levelem a neten!!!!
+STOP!!!
