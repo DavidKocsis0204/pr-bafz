@@ -14,3 +14,4 @@ tizedik
 STOP!!!
 Pető Bálint
 ezt böngészőben írtam
+mi a pull?
