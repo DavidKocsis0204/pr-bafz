@@ -13,3 +13,4 @@ tizedik
 írom a levelem a neten!!!!
 STOP!!!
 Pető Bálint
+ezt böngészőben írtam
