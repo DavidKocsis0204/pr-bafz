@@ -12,3 +12,4 @@ Pető Bálint
 ezt böngészőben írtam
 mi a pull?
 FZ
+vs
